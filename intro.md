@@ -1,10 +1,4 @@
- # RENT A CAR API
-https://expressjs.com/en/resources/middleware/multer.html
-
-8:38
-https://www.w3schools.com/nodejs/nodejs_email.asp
- 
- arştırlacak
+# RENT A CAR API
 
 ### ERD:
 
